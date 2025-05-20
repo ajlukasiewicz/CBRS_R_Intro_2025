@@ -8,7 +8,7 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=4)
 ## Day 1: Introduction to R
 ### In-class worksheet
 
-**May 28th, 2024**
+**May 20th, 2025**
 
 Computational analyses require methods and notes to be recorded the same way you would for wet lab experiments. An excellent way to do this is via R Markdown documents. R Markdown documents are documents that combine text, R code, and R code output, and figures. They are a great way to produce self-contained and documented statistical analyses.
 
