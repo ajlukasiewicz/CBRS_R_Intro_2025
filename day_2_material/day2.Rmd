@@ -12,7 +12,7 @@ library(ggthemes) # enables colorblind-friendly color palettes
 ## Day 2: Data visualization
 ### In-class worksheet
 
-**May 29th, 2024**
+**May 21st, 2025**
 
 ## 1. Plotting x-y relationships
 
